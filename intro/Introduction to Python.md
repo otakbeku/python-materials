@@ -12,7 +12,7 @@ Anaconda merupakan package manager khusus untuk Python. Perubahan versi dari pac
 
 [Video install di Linux](https://www.youtube.com/watch?v=DY0DB_NwEu0)
 
-[Video install di Max](https://www.youtube.com/watch?v=daVgEXjv6DE)
+[Video install di Mac](https://www.youtube.com/watch?v=daVgEXjv6DE)
 
 ## Install python using Miniconda
 
