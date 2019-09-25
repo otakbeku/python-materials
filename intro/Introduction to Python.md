@@ -2,7 +2,7 @@
 
 
 
-**Note**: Jika tidak memungkinkan untuk menginstall Anaconda/Miniconda, silahkan menggunakan [Repl.it](Repl.it)
+**Note**: Jika tidak memungkinkan untuk menginstall Anaconda/Miniconda, silahkan menggunakan [Repl.it](https://Repl.it)
 
 ## Install python using Anaconda
 
