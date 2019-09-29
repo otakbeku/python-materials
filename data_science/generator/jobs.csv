@@ -1,0 +1,58 @@
+jobs,salary_coef
+Analytics Manager,1.3
+Mobile Developer,1.4
+Data Scientist,3.7
+Project Manager,2.3
+QA Manager,2.3
+Software Architect,1.3
+Software Engineer,1.3
+UX Designer,2.0
+Call center representative,1.4
+Franchise owner,0.9
+Virtual assistant,0.9
+Medical transcriptionist,0.7
+Teacher/tutor,1.4
+Tech support specialist,0.7
+Translator,0.7
+Travel agent,0.7
+Web developer/designer,0.5
+Writer/editor,0.4
+Android developer,1.3
+Chief operating officer,1.4
+Chief technology officer,1.4
+Full stack developer,1.5
+Lead developer,1.5
+Lead engineer,1.5
+Research assistant,1.4
+Senior java developer,2.7
+Recruiter,2.1
+Software QA engineer,2.1
+Barista,0.8
+Camp counselor,0.8
+Cashier,0.6
+Host/hostess (restaurant),0.5
+Office clerk,0.6
+Retail sales,0.5
+Stock clerk,0.5
+Waiter/waitress,0.6
+Warehouse worker,0.4
+Ambulance drivers/attendants,1.0
+Commercial divers,0.4
+Home health aids,0.4
+Nurse practitioners,3.0
+Occupational therapy assistants/aids,3.0
+Physical therapist assistants/aides,3.0
+Physical therapists,2.7
+Physician assistants,2.1
+Statisticians,2.9
+Wind turbine service technicians,2.2
+Au pair,1.8
+Auditor,1.1
+Cruise line worker,1.2
+English as a second language (ESL) teacher,0.7
+Flight attendant,0.6
+Railroad worker,0.7
+Retail buyer,0.7
+Sales representative,0.5
+Traveling nurse,1.6
+Truck driver,1.9
